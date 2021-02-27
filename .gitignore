@@ -1,2 +1,6 @@
 main/.terraform
 main/bootstrap/.terraform
+main/bootstrap/terraform.tfstate
+main/bootstrap/terraform.tfstate.backup
+main/bootstrap/terraform.bootstrap.plan
+main/bootstrap/.terraform.lock.hcl
