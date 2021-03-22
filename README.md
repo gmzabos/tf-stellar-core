@@ -1,7 +1,7 @@
 # tf-stellar-core
 
 ### What is this repository for? ###
-* Install Stellar Core infrastructure using terraform
+* Stellar Core infrastructure deployment on AWS via terraform
 
 ## Terraform version
 * Terraform version: 0.14.7
