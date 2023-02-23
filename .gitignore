@@ -4,3 +4,4 @@ main/bootstrap/terraform.tfstate
 main/bootstrap/terraform.tfstate.backup
 main/bootstrap/terraform.bootstrap.plan
 main/bootstrap/.terraform.lock.hcl
+.gitpod.yml
